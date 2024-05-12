@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "ꜱɪᴛʜᴜᴡᴀ-ᴍᴅ",
+  "AUTHOR": "ʀᴄᴅ-ᴍᴅ",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
@@ -10,7 +10,7 @@
           "UPDATED_LOCAL": "*👼 Successfully Updated!*"
       },
       "global": {
-          "botName": " Powered by sithum kalhara",
+          "botName": " Powered by rcd team",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Sir",
           "pic1": "https://telegra.ph/file/c4c54319ac454e23a7ffa.jpg",
@@ -34,7 +34,7 @@
           "mention": " Please mention any user Sir",
           "title": "ꜱɪᴛʜᴜᴡᴀ-ᴍᴅ",
           "footer": "ꜱɪᴛʜᴜᴡᴀ-ᴍᴅ",
-          "by": "Made by: *SITHUM KALHARA*",
+          "by": "Made by: *rcd team*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "Done ✓",
           "dot": "Did you mean *help?*",
